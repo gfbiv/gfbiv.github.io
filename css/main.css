@@ -1,7 +1,7 @@
 /* Temporary Base */
 
 html, *{
-    font-family: 'Karla', sans-serif;
+    font-family: 'Karla', 'Courier', monospace;
     font-weight: 400;
     background-color: #fff;
     color: #999;
